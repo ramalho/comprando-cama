@@ -1,0 +1,109 @@
+Freguesa:	Boa tarde, somos recém casados e precisamos de uma cama de casal.
+Gomes:	Claro, o Andrade pode ajudar vocês.
+Freguesa:	Obrigada.
+Gomes:	Andrade!
+Andrade:	Como posso ajudar?
+Freguesa:	Precisamos de uma cama de casal, vocês tem alguma na faixa de R$ 300?
+Andrade:	Ah, infelizmente não. Nossa cama mais barata custa R$ 5.000 (aponta para uma cama)
+(Freguesa e freguês reagem com espanto)
+Freguesa:	Cinco mil reais?
+Gomes:	Perdão, eu devia ter avisado que o Andrade é um pouco exagerado. Qualquer número que ele falar,  dividam por dez.
+Freguesa:	OK...
+Gomes:	Fora isso, ele é perfeitamente normal.
+Freguesa:	Certo... (virando para o Andrade) então a cama de casal mais barata é R$ 500?
+Andrade:	Exatamente:	cinco mil reais (apontando para a cama)
+Freguesa:	E qual é a largura dela?
+Andrade:	15 metros
+(Freguês faz cara de espanto)
+Freguesa:	(cochichando pro marido) Um metro e meio...
+(Freguês faz cara de "Ah, tá.")
+Freguesa:	e o comprimento?
+Andrade:	O comprimento é... um momento. Gomes, qual é o comprimento da Nested Decorator?
+Gomes:	70 centímetros
+Freguesa:	70 centímetros???
+Andrade:	Sim. Tudo que o Gomes fala a gente precisa multiplicar por três. Ele tem esse pequeno problema.
+Freguesa:	Ah sim. Desculpe.
+Andrade:	Isso significa que quando ele diz "70 centímetros", na verdade é 21 metros.
+Freguesa:	Ok, entendido.
+Andrade:	O preço não inclui o colchão.
+Freguesa:	E quanto custa o colchão?
+Andrade:	O Gomes pode te ajudar com isso. Gomes, você pode ajudar essas 20 pessoas a escolher uma casinha de cachorro?
+Freguesa:	Casinha de cachorro? Não, a gente quer um colchão de casal!
+Andrade:	Perdão. Você precisa dizer "casinha de cachorro" para o Gomes, porque se você falar "colchão" ele coloca um balde na cabeça. Eu devia ter explicado. Fora isso, ele está OK. 
+Freguesa:	Ah, OK. Hmmm, com licença, você pode nos mostrar as casinhas de cachorro?
+Gomes:	Casinhas de cachorro?
+Freguesa:	Sim, queremos ver as casinhas de cachorro.
+Gomes:	Certo. Elas ficam na seção de pets, no segundo andar.
+Freguesa:	Não, não. A gente quer ver as CASINHAS DE CACHORRO.
+Gomes:	(irritado) Já entendi. Segundo andar.
+Freguesa:	Não, a gente não quer ver casinhas de cachorro, é que o Andrade falou que...
+Gomes:	Ah, perdão. O que o Andrade falou dessa vez?
+Freguesa:	Ele disse que a gente devia falar "casinha de cachorro" em vez de "colchão" 
+(Gomes coloca um balde na cabeça)
+ 
+Freguesa:	Oi? Oi? OI?
+Andrade:	(chegando perto) Você falou "colchão"?
+Freguesa:	Sim, mas é que...
+Gomes:	(abafado) Não vou sair!
+Andrade:	Eu PEDI para não falarem "colchão", não?
+Freguesa:	Sim, mas acontece que...
+Gomes:	(abafado) Vou ficando!
+Freguesa:	Nossa.
+Andrade:	Agora tenho que entrar na caixa e cantar.
+Freguesa:	Oh.
+Andrade:	(cantando) Salve o Corinthians / O campeão dos campeões
+Vendedora 3:	(chegando, ao ouvir a música) Ah, não. Alguém falou "colchão" pro Gomes?
+Freguesa:	Sim
+(Vendedora 3 fuzila Freguesa com o olhar)
+Andrade:	(ainda cantando) Eternamente / Dentro dos nossos corações
+	Salve o Corinthians
+	(Vendedora 3 cantando junto) De tradições glórias mil
+	Tu és o orgulho, dos desp...
+
+(Gomes tira o balde da cabeça. Andrade e Vendedora 3 param de cantar imediatamente. Vendedora 3 sai de cena.)
+ 
+Andrade:	Ele vai ficar bem agora. Mas não... não falem aquela palavra!
+Freguesa:	Não, não. (Para o Gomes). Com licença, podemos ver as casinhas de cachorro?
+Gomes:	(irritado) Pois não. Seção de pets, segundo andar.
+Freguesa:	(desesperada) Não, não, não. Essas casinhas de cachorro, entende? (tocando um colchão imaginário na cama imaginária)
+Gomes:	Um colchão?
+(Freguesa e freguês reagem espantados)
+Freguesa:	(aliviada) Siiiim!
+Gomes:	Mas se vocês querem um colchão, porque não falar "colchão"?
+Freguesa:	(nervosa) Ha ha, é que...
+Gomes:	Você me confunde falando "casinhas de cachorro" quando quer "colchões". Porque não dizer "colchões"?
+Freguesa:	É que você colocou um balde na cabeça da outra vez que falamos "colchão".
+
+(Gomes coloca um balde na cabeça)
+ 
+Andrade:	(correndo para a cena) Ah não!!! (cantando) Salve o Corinthians...
+Vendedora 3 :	(para Freguesa) Mas a gente pediu!!!
+    (dueto) ...O campeão dos campeões
+	Eternamente
+	Dentro dos nosso corações
+	Salve o Corinthians
+	De tradições de tradições e glórias mil
+	Tu és orgulho, dos desportistas do Brasil
+ 
+(cantoria continua pelas próximas falas)
+ 
+Vendedora 4:	(correndo) Alguém falou "colchão" para o Gomes?
+ 
+(Vendedora 3 aponta com raiva para Freguesa e Freguês)
+ 
+Andrade:	DUAS VEZES!!!
+Vendedora 4:	(gritando para o resto da loja) Pessoal! Falaram "colchão" para o Gomes. Duas vezes!
+         (junta-se ao coro)
+ 
+Andrade:	Não tá funcionando, precisamos de mais gente! (entram mais pessoas cantando)
+
+(Gomes tira o balde da cabeça. Todos param de cantar imediatamente. Coro e vendedora 4 vão embora)
+ 
+Gomes:	Perdão. Como posso ajudar vocês
+Freguês:	 Queremos um colchão!
+ 
+(Gomes coloca o balde de novo na cabeça. Andrade e freguesa fuzilam o freguês.)
+ 
+Freguês:	 Mas é a minha única fala!
+
+(Andrade sai de cena pulando como um coelho; Gomes, freguesa e freguês fazem o mesmo, com intervalos de um segundo. FIM)
